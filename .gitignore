@@ -1,2 +1,4 @@
 01_Hello_World/vivado/*
 !01_Hello_World/vivado/hello_world.xpr
+IP/ip_user_files
+IP/managed_ip_project
