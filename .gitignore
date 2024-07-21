@@ -25,6 +25,9 @@
 10_PS_XADC/vivado/*
 !10_PS_XADC/vivado/user_led.xpr
 
+11_QSPI_FLASH/vivado/*
+!11_QSPI_FLASH/vivado/qspi_flash.xpr
+
 IP/ip_user_files
 IP/managed_ip_project
 
