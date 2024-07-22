@@ -31,6 +31,9 @@
 12_MICRO_SD_RW/vivado/*
 !12_MICRO_SD_RW/vivado/micro_sd_rw.xpr
 
+14_DUAL_CORE_AMP/vivado/*
+!14_DUAL_CORE_AMP/vivado/dual_core_amp.xpr
+
 IP/ip_user_files
 IP/managed_ip_project
 
