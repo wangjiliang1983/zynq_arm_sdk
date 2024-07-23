@@ -34,6 +34,9 @@
 14_DUAL_CORE_AMP/vivado/*
 !14_DUAL_CORE_AMP/vivado/dual_core_amp.xpr
 
+15_PS_PL_BRAM/vivado/*
+!15_PS_PL_BRAM/vivado/ps_pl_bram.xpr
+
 IP/ip_user_files
 IP/managed_ip_project
 
