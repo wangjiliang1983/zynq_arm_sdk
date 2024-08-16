@@ -8,7 +8,7 @@ proc validate_preset {IPINST} { return true }
 proc apply_preset {IPINST} {
   return [dict create \
     CONFIG.PCW_DDR_RAM_HIGHADDR {0x3FFFFFFF}  \
-    CONFIG.PCW_FCLK_CLK0_BUF {TRUE}  \
+    CONFIG.PCW_FCLK_CLK0_BUF {FALSE}  \
     CONFIG.PCW_UIPARAM_DDR_BANK_ADDR_COUNT {3}  \
     CONFIG.PCW_UIPARAM_DDR_ROW_ADDR_COUNT {15}  \
     CONFIG.PCW_UIPARAM_DDR_COL_ADDR_COUNT {10}  \

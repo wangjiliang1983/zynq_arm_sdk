@@ -37,6 +37,14 @@
 15_PS_PL_BRAM/vivado/*
 !15_PS_PL_BRAM/vivado/ps_pl_bram.xpr
 
+17_AXI4_DDR_RW/vivado/*
+!17_AXI4_DDR_RW/vivado/axi4_ddr_rw.xpr
+
+19_AXI_DMA_LOOP/vivado/*
+!19_AXI_DMA_LOOP/vivado/axi_dma_loop.xpr
+
+dvi_tx
+
 IP/ip_user_files
 IP/managed_ip_project
 
